@@ -7,5 +7,13 @@
   },
   "license": "MIT",
   "keywords": ["ui", "ux", "design", "styles", "typography", "color-palette", "accessibility", "charts", "components"],
-  "skills": ["./.claude/skills/ui-ux-pro-max"]
+  "skills": [
+    "./.claude/skills/ui-ux-pro-max",
+    "./.claude/skills/banner-design",
+    "./.claude/skills/brand",
+    "./.claude/skills/design",
+    "./.claude/skills/design-system",
+    "./.claude/skills/slides",
+    "./.claude/skills/ui-styling"
+  ]
 }

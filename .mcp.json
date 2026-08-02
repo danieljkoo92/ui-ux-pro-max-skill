@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ui-ux-pro-max": {
+      "command": "python3",
+      "args": ["src/ui-ux-pro-max/scripts/mcp_server.py"]
+    }
+  }
+}

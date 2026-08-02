@@ -15,5 +15,11 @@
     "./.claude/skills/design-system",
     "./.claude/skills/slides",
     "./.claude/skills/ui-styling"
-  ]
+  ],
+  "mcpServers": {
+    "ui-ux-pro-max": {
+      "command": "python3",
+      "args": ["${CLAUDE_PLUGIN_ROOT}/.claude/skills/ui-ux-pro-max/scripts/mcp_server.py"]
+    }
+  }
 }
